@@ -32,9 +32,9 @@ Dispositivo con camara
 
 # LINKS DE LIBRERIAS UTILIZADAS 🔗
 ## a-frame
-https://cdn.jsdelivr.net/gh/hiukim/mind-ar-js@1.1.4/dist/mindar-image.prod.js
-https://aframe.io/releases/1.2.0/aframe.min.js
-mind-AR
-https://cdn.jsdelivr.net/gh/hiukim/mind-ar-js@1.1.4/dist/mindar-image-aframe.prod.js
+- https://cdn.jsdelivr.net/gh/hiukim/mind-ar-js@1.1.4/dist/mindar-image.prod.js
+- https://aframe.io/releases/1.2.0/aframe.min.js
+## mind-AR
+- https://cdn.jsdelivr.net/gh/hiukim/mind-ar-js@1.1.4/dist/mindar-image-aframe.prod.js
 
 # LINK DE PROYECTO
