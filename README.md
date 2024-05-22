@@ -18,7 +18,7 @@ Navegador
 Marcador de imagen (Imagenes representativas de cada carrera)
 Dispositivo con camara
 
-#COMO UTILIZAR LA APLICACIÓN
+# COMO UTILIZAR LA APLICACIÓN
 
 
 # EQUIPO DE DESARROLLO 💻👦
