@@ -5,11 +5,12 @@ Debido a la gran demanda tecnológica actual y al creciente interés de muchos e
 Desarrollar un prototipo de aplicación interactiva basada en realidad aumentada para visualizar un modelo 3D de la mascota del Instituto Tecnologico de Tlaxiaco.
 
 # OBJETIVO ESPECIFICO 🔍
-Caracterizar el prototipo a desarrollar.
-Analizar, depurar y levantar tridimensionalmente la información recopilada.
-Realizar el diseño del desarrollo de software con base a los prototipos.
-Desarrollar el entorno de realidad aumentada que permita la visualización del prototipo desde distintos ángulos.
-JUSTIFICACIÓN 📝
+### Caracterizar el prototipo a desarrollar.
+- Analizar, depurar y levantar tridimensionalmente la información recopilada.
+- Realizar el diseño del desarrollo de software con base a los prototipos.
+- Desarrollar el entorno de realidad aumentada que permita la visualización del prototipo desde distintos ángulos.
+
+# JUSTIFICACIÓN 📝
 La realidad aumentada permite complementar la experiencia del usuario a través de la inmersión en un espacio virtual 3D y la interacción a través de parámetros personalizables del modelo ya que su acceso no está limitado a un espacio físico o equipo específico. Estas características permiten la toma de decisiones con base en la navegación del espacio virtual que complementan los medios tradicionales como los folletos, planos y videos utilizados frecuentemente en la actualidad.
 
 # REQUISITOS ✔️
