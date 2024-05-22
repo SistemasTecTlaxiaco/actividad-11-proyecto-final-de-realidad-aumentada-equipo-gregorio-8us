@@ -13,10 +13,10 @@ JUSTIFICACIÓN 📝
 La realidad aumentada permite complementar la experiencia del usuario a través de la inmersión en un espacio virtual 3D y la interacción a través de parámetros personalizables del modelo ya que su acceso no está limitado a un espacio físico o equipo específico. Estas características permiten la toma de decisiones con base en la navegación del espacio virtual que complementan los medios tradicionales como los folletos, planos y videos utilizados frecuentemente en la actualidad.
 
 # REQUISITOS ✔️
-Internet
-Navegador
-Marcador de imagen (Imagenes representativas de cada carrera)
-Dispositivo con camara
+- Internet
+- Navegador
+- Marcador de imagen (Imagenes representativas de cada carrera)
+- Dispositivo con camara
 
 # COMO UTILIZAR LA APLICACIÓN
 
