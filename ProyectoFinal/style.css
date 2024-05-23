@@ -1,0 +1,9 @@
+.footer{
+	border: black 3px solid;
+	clear:both;
+	width: 99.5%;
+	height:190px;
+	background-color:#FFFFCC;
+	color:#000;
+	text-align:center
+}
