@@ -39,3 +39,4 @@ La realidad aumentada permite complementar la experiencia del usuario a través 
 - https://cdn.jsdelivr.net/gh/hiukim/mind-ar-js@1.1.4/dist/mindar-image-aframe.prod.js
 
 # LINK DE PROYECTO
+https://regular-forest-puppy.glitch.me
