@@ -20,7 +20,7 @@ La realidad aumentada permite complementar la experiencia del usuario a través 
 - Dispositivo con camara
 
 # COMO UTILIZAR LA APLICACIÓN
-
+https://drive.google.com/file/d/1XYTBjc6l8dLYPpbkozpV3-QpoFx2U2Ao/view?usp=drivesdk
 
 # EQUIPO DE DESARROLLO 💻👦
 | Nombre  | Rol | Github |
